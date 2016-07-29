@@ -62,7 +62,7 @@ With Dynamic Tool Destination as the default, you can simply add new tools to th
 along with its rules.
 
 
-Putting it all together, here's a real-world example tool_conf.xml following the steps
+Putting it all together, here's a real-world example job_conf.xml following the steps
 outlined above, followed by how it's used when called from Galaxy:
 ```
 <?xml version="1.0"?>
